@@ -1,0 +1,82 @@
+From afbd4d24fab520385a9e03982c8fe21e552b8316 Mon Sep 17 00:00:00 2001
+From: Carlos Roberto Castillo
+ <39848540+castillocarlosr@users.noreply.github.com>
+Date: Fri, 20 Nov 2020 13:51:55 -0800
+Subject: [PATCH 1/3] Initial commit
+
+---
+ .gitignore | 23 +++++++++++++++++++++++
+ LICENSE    | 21 +++++++++++++++++++++
+ README.md  |  2 ++
+ 3 files changed, 46 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 LICENSE
+ create mode 100644 README.md
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..a1c2a23
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,23 @@
++# Compiled class file
++*.class
++
++# Log file
++*.log
++
++# BlueJ files
++*.ctxt
++
++# Mobile Tools for Java (J2ME)
++.mtj.tmp/
++
++# Package Files #
++*.jar
++*.war
++*.nar
++*.ear
++*.zip
++*.tar.gz
++*.rar
++
++# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
++hs_err_pid*
+diff --git a/LICENSE b/LICENSE
+new file mode 100644
+index 0000000..19dda2a
+--- /dev/null
++++ b/LICENSE
+@@ -0,0 +1,21 @@
++MIT License
++
++Copyright (c) 2020 Carlos Roberto Castillo
++
++Permission is hereby granted, free of charge, to any person obtaining a copy
++of this software and associated documentation files (the "Software"), to deal
++in the Software without restriction, including without limitation the rights
++to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
++copies of the Software, and to permit persons to whom the Software is
++furnished to do so, subject to the following conditions:
++
++The above copyright notice and this permission notice shall be included in all
++copies or substantial portions of the Software.
++
++THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
++IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
++FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
++AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
++LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
++OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
++SOFTWARE.
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..4d45055
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,2 @@
++# TestPatch
++2020Nov20
+-- 
+2.29.2.windows.1
+

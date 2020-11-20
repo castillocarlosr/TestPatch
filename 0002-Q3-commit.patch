@@ -1,0 +1,26 @@
+From 7672fa97fbacb63870e9117e267ed88db54040a3 Mon Sep 17 00:00:00 2001
+From: castillocarlosr <castillocarlosr@gmail.com>
+Date: Fri, 20 Nov 2020 14:01:53 -0800
+Subject: [PATCH 2/3] Q3 commit
+
+---
+ contactus.html | 0
+ index.html     | 0
+ profile.html   | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 contactus.html
+ create mode 100644 index.html
+ create mode 100644 profile.html
+
+diff --git a/contactus.html b/contactus.html
+new file mode 100644
+index 0000000..e69de29
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..e69de29
+diff --git a/profile.html b/profile.html
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.29.2.windows.1
+

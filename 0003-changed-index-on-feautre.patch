@@ -1,0 +1,29 @@
+From 259ae141f24963e62866c01ca8c5619171418c0e Mon Sep 17 00:00:00 2001
+From: castillocarlosr <castillocarlosr@gmail.com>
+Date: Fri, 20 Nov 2020 14:15:46 -0800
+Subject: [PATCH 3/3] changed index on feautre
+
+---
+ index.html | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+diff --git a/index.html b/index.html
+index e69de29..fe2c0ee 100644
+--- a/index.html
++++ b/index.html
+@@ -0,0 +1,11 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>Modify</title>
++</head>
++<body>
++    <p>Question 3 patch</p>
++</body>
++</html>
+\ No newline at end of file
+-- 
+2.29.2.windows.1
+
